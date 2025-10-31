@@ -1,2 +1,2 @@
-# gamejam-f25-glitch-hunt
-My project for the fall 2025 gamejam at Taylor University
+# GameJam 2025: Glitch Hunt
+My project for the Fall 2025 Gamejam at Taylor University
