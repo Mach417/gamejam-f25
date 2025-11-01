@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mcken\personal-code\gamejam-f25\build\CMakeFiles\4b67084db4773762b045973cc46f227e\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E9F6ED1C-5272-33B3-AECF-8F9972EF5F81}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

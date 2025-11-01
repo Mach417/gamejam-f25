@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/mcken/personal-code/gamejam-f25/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate"
+		},
+		{
+			"file" : "C:/Users/mcken/personal-code/gamejam-f25/build/_deps/raylib-subbuild/CMakeFiles/5221c726bc36e8c97e7997029c345a91/raylib-populate.rule"
+		},
+		{
+			"file" : "C:/Users/mcken/personal-code/gamejam-f25/build/_deps/raylib-subbuild/CMakeFiles/b204de257dae37978f5f6ca119e6bb2d/raylib-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/mcken/personal-code/gamejam-f25/build/_deps/raylib-subbuild/CMakeFiles/b8f6f2e39be59cd5e8868d0d1e59b118/raylib-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/mcken/personal-code/gamejam-f25/build/_deps/raylib-subbuild/CMakeFiles/b8f6f2e39be59cd5e8868d0d1e59b118/raylib-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/mcken/personal-code/gamejam-f25/build/_deps/raylib-subbuild/CMakeFiles/b8f6f2e39be59cd5e8868d0d1e59b118/raylib-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/mcken/personal-code/gamejam-f25/build/_deps/raylib-subbuild/CMakeFiles/b8f6f2e39be59cd5e8868d0d1e59b118/raylib-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/mcken/personal-code/gamejam-f25/build/_deps/raylib-subbuild/CMakeFiles/b8f6f2e39be59cd5e8868d0d1e59b118/raylib-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/mcken/personal-code/gamejam-f25/build/_deps/raylib-subbuild/CMakeFiles/b8f6f2e39be59cd5e8868d0d1e59b118/raylib-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/mcken/personal-code/gamejam-f25/build/_deps/raylib-subbuild/CMakeFiles/b8f6f2e39be59cd5e8868d0d1e59b118/raylib-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/mcken/personal-code/gamejam-f25/build/_deps/raylib-subbuild/CMakeFiles/b8f6f2e39be59cd5e8868d0d1e59b118/raylib-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"raylib-populate"
+		],
+		"name" : "raylib-populate"
+	}
+}

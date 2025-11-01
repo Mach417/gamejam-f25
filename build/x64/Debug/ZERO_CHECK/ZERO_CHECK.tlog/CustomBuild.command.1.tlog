@@ -1,0 +1,10 @@
+^C:\USERS\MCKEN\PERSONAL-CODE\GAMEJAM-F25\BUILD\CMAKEFILES\EE04C0881785E7245CC55ACF5F35D715\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/mcken/personal-code/gamejam-f25 -BC:/Users/mcken/personal-code/gamejam-f25/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/mcken/personal-code/gamejam-f25/build/example.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

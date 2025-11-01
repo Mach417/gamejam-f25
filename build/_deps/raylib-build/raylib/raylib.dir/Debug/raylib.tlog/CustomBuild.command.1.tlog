@@ -1,0 +1,10 @@
+^C:\USERS\MCKEN\PERSONAL-CODE\GAMEJAM-F25\BUILD\_DEPS\RAYLIB-SRC\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/mcken/personal-code/gamejam-f25 -BC:/Users/mcken/personal-code/gamejam-f25/build --check-stamp-file C:/Users/mcken/personal-code/gamejam-f25/build/_deps/raylib-build/raylib/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
